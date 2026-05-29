@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&family=Cinzel+Decorative:wght@700;900&family=Cinzel:wght@600;800;900&family=Orbitron:wght@600;800;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  --font-royal: "Cinzel Decorative", serif;
+  --font-cinzel: "Cinzel", serif;
+  --font-orbitron: "Orbitron", sans-serif;
+}

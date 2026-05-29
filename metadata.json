@@ -1,0 +1,6 @@
+{
+  "name": "Bulk Mail Sender",
+  "description": "Bulk email sender with Gmail App Password integration, custom recipient lists, placeholder substitution, and automatic sender rotation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
